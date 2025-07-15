@@ -21,7 +21,7 @@ A mindful, voice-enabled chatbot designed to help users take breaks from digital
 - The coach will respond with a calming, emotion-aware reply in both voice and text.
 
 ## 🚀 Deployed On
-[🔗 Live on Hugging Face Spaces](https://huggingface.co/spaces/YOUR-USERNAME/ai-detox-coach)
+[🔗 Live on Hugging Face Spaces](https://huggingface.co/spaces/Khansa8/ai-detox-coach)
 
 ## 👩‍💻 Developed by
 **Khansa Shakeel** — Data Dreamer & AI Enthusiast  
